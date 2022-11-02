@@ -28,5 +28,5 @@
 * Multi-threading
 
 ![image](PythonQT5_1.jpg)
-![image](PythonQT5_2.jpg)
+![image](PythonQT5_3.jpg)
 ![image](PythonQT5_4.jpg)
